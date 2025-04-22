@@ -1,11 +1,35 @@
-# Meu Projeto Incrível
+# REGISTRO DE ALUNO
 
-Uma breve descrição do que este projeto faz e seus principais objetivos.
+Este projeto foi desenvolvido para fins acadêmicos e é composto por:
 
-## Pré-requisitos
+- **Backend:** Java Spring Boot + MongoDB
+- **Frontend:** React com Material UI
+- **Objetivo:** Cadastrar, listar e armazenar alunos com nome, telefone, e-mail e endereço.
 
-* Node.js v16 ou superior
-* npm v8 ou superior
+## ⚙️ Pré-requisitos
+
+### Backend
+- Java 17 instalado
+- MongoDB instalado e rodando localmente (`localhost:27017`)
+- Maven (ou usar o wrapper `./mvnw` incluso no projeto)
+
+### Frontend
+- Node.js (v14 ou superior)
+- NPM (vem junto com o Node)
+
+## 📦 Tecnologias utilizadas
+
+### 🔧 Backend
+- Java 17
+- Spring Boot
+- Spring Data MongoDB
+- MongoDB
+- Maven
+
+### 💻 Frontend
+- React
+- Axios
+- Material UI
 
 ## Instalação
 
