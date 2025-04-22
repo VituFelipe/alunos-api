@@ -1,33 +1,14 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# Arquivos do Java/Spring Boot
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+# Arquivos do React
+frontend/node_modules/
+frontend/build/
+frontend/.env
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
+# Arquivos de sistema
+.DS_Store
+*.log

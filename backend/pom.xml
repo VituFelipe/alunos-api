@@ -8,11 +8,11 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.duduslugee</groupId>
-	<artifactId>registro_alunos</artifactId>
+	<groupId>br.vitufelipe</groupId>
+	<artifactId>cadastro_aluno</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Registro de Alunos</name>
-	<description>Projeto Desenvolvimento para WEB 2</description>
+	<name>Cadastro de Alunos</name>
+	<description>Projeto WEB 2</description>
 	<url/>
 	<licenses>
 		<license/>
