@@ -72,7 +72,7 @@ Clique em Cadastrar
 
 Verifique a lista e o banco (MongoDB Compass)
 
-## ecnologias utilizadas
+## Tecnologias utilizadas
 Backend:
 Java 17
 
